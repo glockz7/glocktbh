@@ -15,3 +15,8 @@
 <h1 align="left">Unique Viewers Counter</h1>
 
 ![counter](https://moe-counter.glitch.me/get/@glocktbh?theme=asoul)
+<br></br>
+<h1 align="left">Discord Profile</h1>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/855756193623965697)](https://discord.com/users/855756193623965697)
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
